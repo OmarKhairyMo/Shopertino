@@ -1,2 +1,2 @@
-# Shopertino
-Shopertino is an Ecommerce Application for fashion 
+# Shopertino (React Native)
+Shopertino is an Ecommerce Application for fashion using Expo
